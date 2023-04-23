@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Phil, and this is my GitHub page. I'm too lazy to write a whole about me here so I'm gonna redirect you to my home page on my website: https://phil564.github.io
 <!--
 **Phil564/Phil564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
